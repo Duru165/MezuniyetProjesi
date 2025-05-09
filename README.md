@@ -1,2 +1,1 @@
-# MezuniyetProjesi Bu projede bitkilerin sağlığını tespit eden eğitilmiş bir model var.Birçok class olacak hastalıklı,sağlıklı...
-Bu model bir web sitesinde olacak?
+# MezuniyetProjesi 
